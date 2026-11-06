@@ -45,6 +45,16 @@ khiển PID.
 Nội dung cụ thể bên trong `PART` và `Draw` cần được cập nhật theo các
 tệp thực tế của dự án. Không tự ý đổi tên hoặc di chuyển tệp CAD nếu
 chúng còn liên kết tham chiếu với cụm lắp ráp.
+## Mô hình 3D Test Rig UAV
+
+### Mô hình tổng thể
+
+![Test Rig UAV 3D](Images/test-rig-preview.png)
+
+### File thiết kế 3D
+
+- [Xem mô hình 3D STL](3D/TestRig_UAV.stl)
+- [Tải mô hình CAD gốc STEP](3D/TestRig_UAV.STEP)
 
 ## 4. Nguyên lý thử nghiệm PID
 
@@ -204,3 +214,4 @@ Ví dụ: `20261106_ROLL_RATE_PIDv01_Run01.csv`.
 thông số cơ khí, điện, firmware, giới hạn góc và quy trình vận hành
 chính thức phải được cập nhật theo thiết kế và kết quả kiểm tra thực tế
 của Test Rig.
+
