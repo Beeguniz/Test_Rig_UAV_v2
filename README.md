@@ -54,5 +54,10 @@ thuật toán tuning đánh giá, điều chỉnh các hệ số. Bộ điều k
 thường được thực thi trong Flight Controller; cần xác định rõ kiến trúc
 thực tế của dự án trước khi kết luận tín hiệu nào được đo và xử lý ở
 từng khối.
+##MÔ HÌNH 3D TEST RIG UAV
+
+### Xem mô hình 3D
+
+[🔗 Nhấn vào đây để xem mô hình 3D trực tiếp trên GitHub](CAD/laprapfix.stl)
 
 
