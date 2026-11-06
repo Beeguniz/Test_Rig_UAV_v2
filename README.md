@@ -57,6 +57,6 @@ từng khối.
 ##MÔ HÌNH 3D TEST RIG UAV
 ## 3. MÔ HÌNH 3D TEST RIG UAV
 
-[🔗 XEM MÔ HÌNH 3D LAPRAFIX](CAD/laprafix.STL)
+[🔗 XEM MÔ HÌNH 3D LAPRAFIX](CAD/laprapfix.STL)
 
 
