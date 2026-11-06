@@ -55,9 +55,8 @@ thường được thực thi trong Flight Controller; cần xác định rõ ki
 thực tế của dự án trước khi kết luận tín hiệu nào được đo và xử lý ở
 từng khối.
 ##MÔ HÌNH 3D TEST RIG UAV
-
 ### Xem mô hình 3D
 
-[🔗 Nhấn vào đây để xem mô hình 3D trực tiếp trên GitHub](CAD/laprapfix.stl)
+[🔗 Nhấn vào đây để xem mô hình 3D trực tiếp trên GitHub](CAD/TEN_FILE.stl)
 
 
